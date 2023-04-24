@@ -1,0 +1,354 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Cristiano Ronaldo",
+      "handle": "@cristiano",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2017229/rs_600x600-170329085414-600.Cristiano-Ronaldo.cm.32917.jpg?fit=around|1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "value": 567
+    },
+    {
+      "id": 2,
+      "name": "Lionel Messi",
+      "handle": "@leomessi",
+      "image": "https://i.pinimg.com/736x/ab/2b/74/ab2b7443714aea16fc1c68751a0dae5a.jpg",
+      "value": 448
+    },
+    {
+      "id": 3,
+      "name": "Selena Gomez",
+      "handle": "@selenagomez",
+      "image": "https://i.pinimg.com/originals/b0/bd/1c/b0bd1ca2de5d4952830364b95082dd6b.jpg",
+      "value": 407
+    },
+    {
+      "id": 4,
+      "name": "Kylie Jenner",
+      "handle": "@kyliejenner",
+      "image": "https://th.bing.com/th/id/OIP.LDr6sqng863tMhmFfQ-d4wHaEK?pid=ImgDet&rs=1",
+      "value": 383
+    },
+    {
+      "id": 5,
+      "name": "Dwayne Johnson",
+      "handle": "@therock",
+      "image": "https://staticg.sportskeeda.com/editor/2020/09/0d11e-15995670238146-800.jpg",
+      "value": 371
+    },
+    {
+      "id": 6,
+      "name": "Ariana Grande",
+      "handle": "@arianagrande",
+      "image": "https://www.nme.com/wp-content/uploads/2020/10/Ariana-Grande.jpg",
+      "value": 362
+    },
+    {
+      "id": 7,
+      "name": "Kim Kardashian",
+      "handle": "@kimkardashian",
+      "image": "https://i.insider.com/5aba56897708e9237a6d587e?width=700",
+      "value": 350
+    },
+    {
+      "id": 8,
+      "name": "Beyonce",
+      "handle": "@beyonce",
+      "image": "https://i.pinimg.com/474x/8e/d7/7a/8ed77a33e69b05d1d0a7c63ff30fa6a9.jpg",
+      "value": 302
+    },
+    {
+      "id": 9,
+      "name": "Khloe Kardashian",
+      "handle": "@khloekardashian",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2019-10-02-at-6-45-27-am-1570013325.png?crop=1xw:0.9845132743362832xh;center,top&resize=1200:*",
+      "value": 299
+    },
+    {
+      "id": 10,
+      "name": "Justin Bieber",
+      "handle": "@justinbieber",
+      "image": "https://th.bing.com/th/id/OIP.dh-dpgY8fbKYjSswytSBOAHaEc?pid=ImgDet&rs=1",
+      "value": 283
+    },
+    {
+      "id": 11,
+      "name": "Kendall Jenner",
+      "handle": "@kendalljenner",
+      "image": "https://i.pinimg.com/originals/20/9b/84/209b84f67ab10650e7d1731d12e7c1a2.jpg",
+      "value": 281
+    },
+    {
+      "id": 12,
+      "name": "Nike",
+      "handle": "@nike",
+      "image": "https://i.pinimg.com/originals/e0/96/b4/e096b4614de0aef64add2dc63606ee3b.png",
+      "value": 281
+    },
+    {
+      "id": 13,
+      "name": "National Geographic",
+      "handle": "@natgeo",
+      "image": "https://i.pinimg.com/originals/94/33/37/943337fd8005416f5c83711e2c04046b.jpg",
+      "value": 268
+    },
+    {
+      "id": 14,
+      "name": "Taylor Swift",
+      "handle": "@taylorswift",
+      "image": "https://static2.thetalkoimages.com/wordpress/wp-content/uploads/2020/03/pjimage-72.jpg",
+      "value": 251
+    },
+    {
+      "id": 15,
+      "name": "Virat Kohli",
+      "handle": "@virat.kohli",
+      "image": "https://c4.wallpaperflare.com/wallpaper/570/593/209/virat-kohli-4k-sports-wallpaper-preview.jpg",
+      "value": 242
+    },
+    {
+      "id": 16,
+      "name": "Jennifer Lopez",
+      "handle": "@jlo",
+      "image": "https://th.bing.com/th/id/OIP.n2uFIHn3o3t2h_8WFXfeLwHaHL?pid=ImgDet&rs=1",
+      "value": 239
+    },
+    {
+      "id": 17,
+      "name": "Kourtney Kardashian",
+      "handle": "@kourtneykardash",
+      "image": "https://www.opptrends.com/wp-content/uploads/2017/05/Kourtney-Kardashian-instagram-640x640.jpg",
+      "value": 216
+    },
+    {
+      "id": 18,
+      "name": "Nicki Minaj",
+      "handle": "@nickiminaj",
+      "image": "https://th.bing.com/th/id/OIP.aE2FjHDL5IS1UHpmhZCEwwHaFr?pid=ImgDet&rs=1",
+      "value": 214
+    },
+    {
+      "id": 19,
+      "name": "Neymar",
+      "handle": "@neymarjr",
+      "image": "https://th.bing.com/th/id/OIP.5ojnZs9_c6Om2ZvEOqVvXQHaIp?pid=ImgDet&rs=1",
+      "value": 206
+    },
+    {
+      "id": 20,
+      "name": "Miley Cyrus",
+      "handle": "@mileycyrus",
+      "image": "https://th.bing.com/th/id/OIP.rRTxsI0isqleeKafkLm3ZgHaHd?w=193&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "value": 202
+    },
+    {
+      "id": 21,
+      "name": "Katy Perry",
+      "handle": "@katyperry",
+      "image": "https://th.bing.com/th/id/OIP.QUqJ1wGZU3_yKTDWbq6JvAHaED?w=325&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "value": 194
+    },
+    {
+      "id": 22,
+      "name": "Zendaya",
+      "handle": "@zendaya",
+      "image": "https://th.bing.com/th/id/OIP.UuMhBq1qbWyh3IEftHAo8wHaJQ?pid=ImgDet&rs=1",
+      "value": 172
+    },
+    {
+      "id": 23,
+      "name": "Kevin Hart",
+      "handle": "@kevinhart4real",
+      "image": "https://th.bing.com/th/id/OIP.n7nnowk3qW59_oTr8pEVCQHaHa?w=213&h=213&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "value": 170
+    },
+    {
+      "id": 24,
+      "name": "Cardi B",
+      "handle": "@iamcardib",
+      "image": "https://th.bing.com/th/id/OIP.kwWhjdVwx7PPJsUSLFEofAHaEO?w=250&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "value": 157
+    },
+    {
+      "id": 25,
+      "name": "Demi Lovato",
+      "handle": "@ddlovato",
+      "image": "https://th.bing.com/th/id/OIP.VoIVoQvsBwj2Pwg0L9YbYwHaFj?w=234&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "value": 151
+    },
+    {
+      "id": 26,
+      "name": "LeBron James",
+      "handle": "@kingjames",
+      "image": "https://people.com/thmb/1PKepdl0yHQDEnVT0NcnmnTBuNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lebron-james-b73c66eb3444477c8896a44a3e39b671.jpg",
+      "value": 149
+    },
+    {
+      "id": 27,
+      "name": "Rihanna",
+      "handle": "@badgalriri",
+      "image": "https://imgix.bustle.com/uploads/getty/2023/1/11/dcc76517-5c16-42fa-8865-da8b5ae26532-getty-1436969605.jpg?w=653&fit=crop&crop=faces&auto=format%2Ccompress",
+      "value": 147
+    },
+    {
+      "id": 28,
+      "name": "Chris Brown",
+      "handle": "@chrisbrownofficial",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/9b53e51/2147483647/strip/false/crop/2757x2163+0+0/resize/1486x1166!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F61%2F076b71ec460895476583bd7e1633%2Fmonkey-seized-celebrity-75978.jpg",
+      "value": 135
+    },
+    {
+      "id": 29,
+      "name": "Real Madrid CF",
+      "handle": "@realmadrid",
+      "image": "https://i.pinimg.com/originals/f1/7f/4f/f17f4f63760328e9897f3a278739fa61.jpg",
+      "value": 135
+    },
+    {
+      "id": 30,
+      "name": "Ellen DeGeneres",
+      "handle": "@ellendegeneres",
+      "image": "https://variety.com/wp-content/uploads/2020/09/ap_20253004547347.jpg",
+      "value": 134
+    },
+    {
+      "id": 31,
+      "name": "Drake",
+      "handle": "@champagnepapi",
+      "image": "https://static01.nyt.com/images/2021/12/08/arts/06drake2/06drake2-mediumSquareAt3X.jpg",
+      "value": 134
+    },
+    {
+      "id": 32,
+      "name": "FC Barcelona",
+      "handle": "@fcbarcelona",
+      "image": "https://pbs.twimg.com/profile_images/1409740849995522049/u85BO_GZ.jpg",
+      "value": 119
+    },
+    {
+      "id": 33,
+      "name": "Billie Eilish",
+      "handle": "@billieeilish",
+      "image": "https://media.glamour.com/photos/61682fdcbd3b64b6626bcc1f/master/w_2560%2Cc_limit/1343723358",
+      "value": 108
+    },
+    {
+      "id": 34,
+      "name": "UEFA Champions",
+      "handle": "@championsleague",
+      "image": "https://logowik.com/content/uploads/images/994_champions_league.jpg",
+      "value": 104
+    },
+    {
+      "id": 35,
+      "name": "Kylian Mbappe",
+      "handle": "@k.mbappe",
+      "image": "https://todaysprofile.org/wp-content/uploads/2022/12/Kylian-Mbappe.jpg",
+      "value": 101
+    },
+    {
+      "id": 36,
+      "name": "Gal Gadot",
+      "handle": "@galgadot",
+      "image": "https://media.gq.com/photos/5a0b201485eb8b728aa3ba99/16:9/pass/gq-gal-gadot-accent.jpg",
+      "value": 98.9
+    },
+    {
+      "id": 37,
+      "name": "Lisa",
+      "handle": "@lalalalisa_m",
+      "image": "https://media.allure.com/photos/5f8dac2d2689023f4ca7091a/1:1/w_2333,h_2333,c_limit/lisa%20blackpink%20mac%20campaign.jpg",
+      "value": 90.9
+    },
+    {
+      "id": 38,
+      "name": "Vin Diesel",
+      "handle": "@vindiesel",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/200927125801-vin-diesel-file.jpg?q=x_3,y_60,h_1684,w_2993,c_crop/w_800",
+      "value": 90.8
+    },
+    {
+      "id": 39,
+      "name": "NASA",
+      "handle": "@nasa",
+      "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_meatball_1.jpg",
+      "value": 90.8
+    },
+    {
+      "id": 40,
+      "name": "Dua Lipa",
+      "handle": "@dualipa",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/dua-lipa-attends-varietys-2nd-annual-hitmakers-brunch-at-news-photo-1604677508.?crop=1xw:0.87967xh;center,top&resize=1200:*",
+      "value": 87.7
+    },
+    {
+      "id": 41,
+      "name": "Priyanka Chopra",
+      "handle": "@priyankachopra",
+      "image": "https://www.instyle.com/thmb/PSRyu63UqOwTJQzYQ3wIrmtedJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/priyanka-chopra-saudi-entertainment-film-festival-a8e4f5898fed4f298a1cda784b37b2c4.jpg",
+      "value": 85.8
+    },
+    {
+      "id": 42,
+      "name": "Shakira",
+      "handle": "@shakira",
+      "image": "https://www.thepinknews.com/wp-content/uploads/2021/07/GettyImages-101962685.jpg",
+      "value": 85.1
+    },
+    {
+      "id": 43,
+      "name": "Snoop Dogg",
+      "handle": "@snoopdogg",
+      "image": "https://pbs.twimg.com/profile_images/1564375315526275072/7Xnua7BM_400x400.jpg",
+      "value": 79.9
+    },
+    {
+      "id": 44,
+      "name": "Shraddha Kapoor",
+      "handle": "@shraddhakapoor",
+      "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/03/02115818/Shraddha-Kapoor.jpg",
+      "value": 79.5
+    },
+    {
+      "id": 45,
+      "name": "Khaby Lame",
+      "handle": "@khaby00",
+      "image": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2c1A45_0cK8vBP000",
+      "value": 78.9
+    },
+    {
+      "id": 46,
+      "name": "David Beckham",
+      "handle": "@davidbeckham",
+      "image": "https://i.pinimg.com/originals/fb/76/bb/fb76bbe3d651b14763e1114c46492736.jpg",
+      "value": 78.3
+    },
+    {
+      "id": 47,
+      "name": "NBA",
+      "handle": "@nba",
+      "image": "https://cdn.wallpapersafari.com/13/26/p5tf6m.jpg",
+      "value": 77.9
+    },
+    {
+      "id": 48,
+      "name": "Gigi Hadid",
+      "handle": "@gigihadid",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-12-17-at-9-09-00-am-1608217808.png?crop=1.00xw:0.902xh;0,0&resize=1200:*",
+      "value": 77.4
+    },
+    {
+      "id": 49,
+      "name": "Jennie",
+      "handle": "@jennierubyjane",
+      "image": "https://pbs.twimg.com/media/FWgn80xUAAApOSZ.jpg",
+      "value": 76.4
+    },
+    {
+      "id": 50,
+      "name": "Instagram",
+      "handle": "@instagram",
+      "image": "https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "value": 623
+    }
+  ]
+}
